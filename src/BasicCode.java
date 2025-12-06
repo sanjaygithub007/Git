@@ -4,6 +4,7 @@ public class BasicCode {
 	public static void main(String[] args) {
 		int sum=add(4,5);
 		int substract=sub(10,5);
+		System.out.println("hello");
 	}
 	
 	public static int add(int a, int b)
@@ -15,4 +16,5 @@ public class BasicCode {
 	{
 		return a-b;
 	}
+
 }
