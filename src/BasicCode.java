@@ -5,6 +5,7 @@ public class BasicCode {
 		int sum=add(4,5);
 		int substract=sub(10,5);
 		System.out.println("hello python world");
+		System.out.println("Sum is:"+sum);
 	}
 	
 	public static int add(int a, int b)
